@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Geanderson Esteves</h1>
-<h3 align="center">A passionate researcher from Brazil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91" alt="gesteves91" /> </p>
 
-- 🔭 I’m currently working on my **PhD**
+- 🔭 I’m currently working on my **PhD** in Computer Science
 
-- 👨‍💻 All of my projects are available at [https://github.com/gesteves91?tab=repositories&type=source](https://github.com/gesteves91?tab=repositories&type=source)
+- 👨‍💻 All of my projects are available [here](https://github.com/gesteves91?tab=repositories&type=source)
 
 - 📫 How to reach me **geanderson@dcc.ufmg.br**
 
@@ -13,10 +13,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true" alt="gesteves91" /></p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://twitter.com/gesteves91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gesteves91" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/geandersonesteves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="geandersonesteves" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/4224495/geanderson-esteves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="geanderson-esteves" height="30" width="30" /></a>
 <a href="https://fb.com/geanderson.esteves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="geanderson.esteves" height="30" width="30" /></a>
 <a href="https://instagram.com/gesteves91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gesteves91" height="30" width="30" /></a>
-</p>
+</p> -->
