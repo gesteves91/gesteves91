@@ -11,9 +11,12 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&layout=compact&hide=html&theme=dracula" alt="gesteves91" /></p> -->
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&layout=compact&hide=html&theme=dracula)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&layout=compact&hide=html&theme=dracula&langs_count=4)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=dracula)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=dracula&count_private=true)
+
+<!-- ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=niederman&theme=dracula) -->
+
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=dracula" alt="gesteves91" /></p> -->
 
