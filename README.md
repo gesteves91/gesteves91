@@ -11,7 +11,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&layout=compact&hide=html&theme=dracula" alt="gesteves91" /></p> -->
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&layout=compact&hide=html&theme=dracula&langs_count=4)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&hide=jupyter%20notebook&layout=compact&theme=dracula&langs_count=4)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=dracula&count_private=true)
 
