@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Geanderson Esteves</h1>
+<h1 align="center">Hi 👋, I'm Geanderson</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91" alt="gesteves91" /> </p>
 
-🔭 I’m currently working on my **PhD** in Computer Science @ UFMG
+🔭 I’m a PhD candidate in Computer Science at UFMG
 
-👨‍💻 All of my projects are available [here](https://github.com/gesteves91?tab=repositories&type=source)
+👨‍💻 I'm a software engineer at Loggi
+
+<!-- 👨‍💻 All of my projects are available [here](https://github.com/gesteves91?tab=repositories&type=source) -->
 
 <!-- - 📫 How to reach me **geanderson@dcc.ufmg.br** -->
 
