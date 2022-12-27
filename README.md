@@ -5,7 +5,7 @@
 
 🔭 I’m a PhD candidate in computer science at UFMG
 
-👨‍💻 I'm a software engineer at Loggi
+👨‍💻 I'm a software engineer at Target
 
 <!-- 👨‍💻 All of my projects are available [here](https://github.com/gesteves91?tab=repositories&type=source) -->
 
