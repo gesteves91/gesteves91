@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91" alt="gesteves91" /> </p>
 
-🔭 I’m a PhD candidate in computer science at UFMG
+🔭 I’m a PhD in computer science at UFMG
 
 👨‍💻 I'm a software engineer at Target
 
