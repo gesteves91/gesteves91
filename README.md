@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geanderson</h1>
-<h3 align="center">Computer geek from Brazil</h3>
+<h3 align="center">Computer geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91" alt="gesteves91" /> </p>
 
