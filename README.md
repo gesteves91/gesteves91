@@ -47,7 +47,9 @@
 
 ### 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gesteves91&theme=dracula)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gesteves91&theme=dracula" alt="GitHub Streak" />
+</p>
 
 ---
 
