@@ -57,8 +57,3 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91&label=Profile%20views&color=0e75b6&style=flat" alt="gesteves91" /> </p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/gesteves91/gesteves91/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
