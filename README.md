@@ -37,17 +37,17 @@
 
 ### 📊 GitHub Stats
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&hide=jupyter%20notebook&layout=compact&theme=dracula&langs_count=4)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&hide=jupyter%20notebook&layout=compact&theme=gruvbox&langs_count=4)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=dracula&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=gruvbox&count_private=true)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gesteves91&theme=dracula&v=2)
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gesteves91&theme=gruvbox&v=2)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gesteves91&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=gesteves91&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
