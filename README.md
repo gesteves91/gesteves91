@@ -45,11 +45,9 @@
 
 ---
 
-### 📈 GitHub Streak
+### 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gesteves91&theme=dracula" alt="GitHub Streak" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=gesteves91&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
