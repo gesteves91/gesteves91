@@ -15,6 +15,15 @@
 - 🌱 Always learning and exploring new technologies
 - 💡 Passionate about solving complex problems with elegant solutions
 - 📚 Interested in research, software engineering, and technology innovation
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
+
+---
+
+### 🌱 Currently Learning
+
+- 🤖 **Agentic AI** - Exploring autonomous AI systems and agents
+- 🐍 **Python** - Improving and deepening my Python skills
+- 🔒 **Security** - Taking courses on cybersecurity and secure development practices
 
 ---
 
@@ -52,6 +61,12 @@
 ---
 
 ### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gesteves91" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gesteves91&label=Profile%20views&color=0e75b6&style=flat" alt="gesteves91" /> </p>
