@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <h3>🔬 PhD in Computer Science @ UFMG | 👨‍💻 Senior Software Engineer @ Target</h3>
+  <h3>🔬 PhD in Computer Science @ UFMG | 👨🏾‍💻 Senior Software Engineer @ Target</h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨🏾‍💻 About Me
 
 - 🔭 I hold a **PhD in Computer Science** from UFMG
 - 💼 Working as a **Senior Software Engineer** at Target
