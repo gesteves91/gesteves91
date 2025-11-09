@@ -60,6 +60,14 @@
 
 ---
 
+### 🌐 Languages
+
+- 🇧🇷 **Portuguese** - Native
+- 🇺🇸 **English** - Fluent
+- 🇲🇽 **Spanish** - Professional
+
+---
+
 ### 📫 Connect with Me
 
 <div align="center">
