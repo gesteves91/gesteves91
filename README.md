@@ -86,7 +86,7 @@ Published researcher in software engineering, machine learning, and defect predi
 
 ### 📫 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/geandersonesteves" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
