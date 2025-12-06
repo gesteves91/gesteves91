@@ -56,11 +56,11 @@
 
 ### 📊 GitHub Stats
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesteves91&hide=jupyter%20notebook&layout=compact&theme=gruvbox&langs_count=4)
+![My Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gesteves91&hide=jupyter%20notebook&layout=compact&theme=gruvbox&langs_count=4)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesteves91&show_icons=true&theme=gruvbox&count_private=true)
+![My GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=gesteves91&show_icons=true&theme=gruvbox&count_private=true)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gesteves91&theme=gruvbox&v=2)
+![My WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=gesteves91&theme=gruvbox&v=2)
 
 ---
 
