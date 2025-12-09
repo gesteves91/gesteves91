@@ -64,11 +64,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gesteves91&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
----
+--- -->
 
 ### 🔬 Research
 
